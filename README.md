@@ -37,3 +37,24 @@
 - REST API
 - Business Analysis
 - System Analysis
+
+## Что демонстрирует проект
+
+Проект демонстрирует навыки:
+
+- системного анализа
+- описания требований
+- моделирования процессов
+- проектирования интеграций
+- работы с данными
+
+bank-client-onboarding-analysis/
+ ├── README.md
+ ├── docs/
+ │    ├── business-requirements.md
+ │    ├── functional-requirements.md
+ │    ├── api-specification.md
+ │    └── sql-example.sql
+ └── diagrams/
+      ├── as-is.md
+      └── to-be.md
